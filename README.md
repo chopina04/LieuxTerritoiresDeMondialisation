@@ -9,7 +9,7 @@ URL : https://www.oxfamfrance.org/actualites/justice-fiscale/paradis-fiscal-quel
 URL : http://www.aapa-ports.org/unifying/content.aspx?ItemNumber=21048<br>
 <li>World Federation of Exchanges <i>WFE Annual Statistics Guide</i> 2016<br>
 URL : https://www.world-exchanges.org/home/index.php/statistics/annual-statistics<br>
-<li>Fortune <i>Global 500</i> 2017<br>
+<li><i>Fortune Global 500</i> 2017<br>
 URL : http://fortune.com/global500/<br>
 <li>The Globalization and World Cities (GaWC) Research Network <i>World according to GaWC 2016</i><br>
 URL : http://www.lboro.ac.uk/gawc/world2016t.html<br>
